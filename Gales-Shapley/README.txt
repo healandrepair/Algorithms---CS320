@@ -1,0 +1,1 @@
+Program that applies the Gales-Shapley algorithm to find the most optimal solution for the stable matching problem, in polynomial time.
